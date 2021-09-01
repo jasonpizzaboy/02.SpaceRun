@@ -132,3 +132,4 @@ Received Import Request.
   path: Assets/MainMenu.unity
   artifactKey: Guid(b71aec2e29bb34427a730f25e7bd3798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/MainMenu.unity using Guid(b71aec2e29bb34427a730f25e7bd3798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2947d7be06fe4cff683d3bc75e946b52') in 0.014725 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
